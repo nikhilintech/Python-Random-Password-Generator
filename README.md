@@ -11,5 +11,6 @@ Open Source
 
 Run pip3 install to set up this script
 pip3 install .
+
 Generating a password via following command
 python3 run.py
